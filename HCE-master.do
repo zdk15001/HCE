@@ -35,8 +35,11 @@ do HCE-PSID_market
 do HCE-desc
 do HCE-market
 
+//	#4	Supplementary analyses conducted as part of peer-review process
+do HCE-misc
 
-//	#4	Close Log and Exit
+
+//	#5	Close Log and Exit
 capture log close
 exit
 
