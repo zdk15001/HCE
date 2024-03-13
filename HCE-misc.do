@@ -7,7 +7,7 @@ clear all
 macro drop _all
 set scheme s1manual
 
-//  GRR: task description
+//  GRR: Miscellaneous tasks completed as part of the peer-review process
 local pgm HCE-misc
 local dte 2023-5-24
 local who Zachary D. Kline
@@ -215,7 +215,7 @@ twoway ///
     legend(order(9 "Federal Marketplace" 10 "State Marketplace" )) 
 
 
-********* burden
+********* burden measured as continuous ~ pct
 
 clear
 use HCE-PSID
