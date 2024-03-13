@@ -34,7 +34,7 @@ do HCE-PSID_market
 //	#3	Full data set analysis
 do HCE-desc
 do HCE-market
-do HCE-
+
 
 //	#4	Close Log and Exit
 capture log close
